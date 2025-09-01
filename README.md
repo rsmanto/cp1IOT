@@ -7,6 +7,11 @@
 
 ---
 
+##O repositório contém:
+- Notebook de análise do Dataset Individual Household Electric Power Consumption (cp1Consumidores_de_Energia)
+- Notebook de análise do dataset Appliances Energy Prediction (cp1Appliances_Energy_Prediction)
+- Doc de registro do uso do Orange Data Mining para análise do Dataset Individual Household Electric Power Consumption (cp1Orange_Data_Mining.docx)
+
 ## Conjuntos de Dados Utilizados
 1. **Individual Household Electric Power Consumption**  
    - Fonte: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)  
